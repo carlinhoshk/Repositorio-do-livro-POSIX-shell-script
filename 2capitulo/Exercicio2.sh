@@ -1,6 +1,3 @@
-# 16:42 - 27/05/2022
-
-# Utilizando a substiuição de comandos, atribua a data de hoje no formato dd/mm/yy a variavel TODAY
 
 1º TODAY=(date +%d-%m-%y)
 
