@@ -1,1 +1,1 @@
-https://github.com/carlinhoshk/Repositorio-do-livro-POSIX-shell-script/blob/main/fotos/72BF3EE6-2A94-40B4-8CCD-882CD7B7D7E2.jpeg
+![72BF3EE6-2A94-40B4-8CCD-882CD7B7D7E2](https://user-images.githubusercontent.com/40872405/170892517-8113c01a-6e8b-4c10-b399-f50768805304.jpeg)
