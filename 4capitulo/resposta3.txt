@@ -1,0 +1,5 @@
+primeira resposta: 6                                                                             
+segunda resposta: -d                                                                                   
+terceira resposta:                                                                                      
+quarta resposta: abc def -d -4 +900 xyz                                                                 
+quinta resposta: ./myshellprog.sh
